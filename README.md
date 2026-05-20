@@ -1,65 +1,60 @@
 # Information Security Management System (ISMS)
 
 ## Overview
-Designed and developed a comprehensive Information Security Management System (ISMS) for a simulated consulting engagement. The goal was to assess organizational risk, implement security controls, and improve overall security posture using industry-standard frameworks.
+Designed and developed a comprehensive Information Security Management System (ISMS) for a fictional multinational consulting organization operating across the United Kingdom, the United States, and India.
 
-## Objectives
-- Identify and classify organizational assets
-- Assess risks and vulnerabilities impacting business operations
-- Develop security policies and controls
-- Design an incident response and disaster recovery framework
-- Ensure compliance with global security regulations
+This project focused on cybersecurity governance, risk management, incident response planning, asset management, compliance requirements, and security policy development using industry frameworks, including NIST and ISO 27001.
+
+## Project Objectives
+
+The goal of this project was to design and document a structured Information Security Management System for a simulated multinational organization while applying industry security frameworks and risk management principles to real-world business scenarios.
+
+## Key Areas Covered
+
+- Information Security Management System (ISMS) design
+- Asset identification and classification
+- Risk assessments and risk register development
+- Incident response planning and documentation
+- Vulnerability management strategies
+- Patch management procedures
+- Phishing awareness and email security policies
+- Security monitoring and continuous review concepts
+- GDPR, CPRA, PCI DSS, and DPDPA compliance considerations
+- Security control recommendations aligned with NIST and ISO 27001
+
+## Technical & Security Concepts Applied
+
+- Risk Assessment & Risk Treatment
+- Asset Management
+- Security Controls & Hardening
+- Incident Response Planning
+- Vulnerability Management
+- Security Monitoring Concepts
+- Compliance & Governance
+- Access Control Principles
+- Patch Management
+- Security Awareness Training
 
 ## Frameworks & Standards
 - NIST Cybersecurity Framework
-- ISO 27001
-- NIST SP 800-53 / 800-30 / 800-61
+- NIST SP 800-53
+- NIST SP 800-30
+- NIST SP 800-137
+- ISO/IEC 27001
+- CIA Triad
+- Risk Management Methodologies
 
-## Key Components
+## My Contributions
 
-### Asset Management
-- Identified and categorized assets (hardware, software, data, personnel)
-- Applied classification based on confidentiality, integrity, and availability (CIA triad)
-- Assigned ownership and accountability for critical assets
+Primary contributions included:
+- Risk management methodology and documentation
+- Incident response lifecycle planning
+- Phishing awareness and email security policy
+- Patch management policy and procedures
+- Security control recommendations
+- Compliance analysis and policy alignment
+- Asset management and risk assessment documentation
 
-### Risk Management
-- Developed a risk assessment methodology using both qualitative and quantitative analysis
-- Built a structured risk register to evaluate threats, vulnerabilities, and impact
-- Prioritized risks based on likelihood and asset criticality
-- Proposed mitigation strategies aligned with ISO 27001 controls
+## Notes
 
-### Security Controls & Policies
-- Designed key security policies, including:
-  - Patch Management Policy
-  - Phishing Awareness & Email Security Policy
-  - Data Encryption Policy
-  - Disaster Recovery & Business Continuity Plan
-- Recommended implementation of technical and administrative controls
-
-### Incident Response
-- Developed an incident response plan based on NIST SP 800-61
-- Defined processes for detection, containment, eradication, and recovery
-- Established incident classification and reporting procedures
-
-### Compliance & Governance
-- Addressed regulatory requirements, including:
-  - GDPR
-  - CPRA
-  - PCI DSS
-- Proposed compliance monitoring and continuous improvement processes
-
-## Key Findings
-- High risk from human error and lack of employee training
-- Outdated systems and unpatched vulnerabilities increased the attack surface
-- Lack of encryption exposed sensitive data
-- No structured incident response process in place
-
-## Outcome
-Delivered a full ISMS framework with actionable recommendations to reduce risk, improve compliance, and strengthen organizational security posture.
-
-## Skills Demonstrated
-- Risk Assessment & Risk Management
-- Security Policy Development
-- Incident Response Planning
-- Governance, Risk, and Compliance (GRC)
-- Cybersecurity Framework Implementation
+This project was developed as part of cybersecurity coursework and personal portfolio development to demonstrate practical understanding of governance, risk management, compliance, and security operations concepts.
