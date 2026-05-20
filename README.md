@@ -18,7 +18,7 @@ This project focused on cybersecurity governance, risk management, incident resp
 - [Risk Assessment Summary](risk-management/risk-assessment-summary.pdf)
 
 ### Full Documentation
-- [Full ISMS Document](isms-project.pdf)
+- [Full ISMS Document](Enterprise-ISMS-Project.pdf)
 
 ## Project Objectives
 
