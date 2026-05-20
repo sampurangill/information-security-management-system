@@ -5,6 +5,21 @@ Designed and developed a comprehensive Information Security Management System (I
 
 This project focused on cybersecurity governance, risk management, incident response planning, asset management, compliance requirements, and security policy development using industry frameworks, including NIST and ISO 27001.
 
+## Repository Contents
+
+### Policies
+- [Phishing Awareness Policy](policies/phishing-awareness-policy.pdf)
+- [Patch Management Policy](policies/patch-management-policy.pdf)
+
+### Incident Response
+- [Incident Response Plan](incident-response/incident-response-plan.pdf)
+
+### Risk Management
+- [Risk Assessment Summary](risk-management/risk-assessment-summary.pdf)
+
+### Full Documentation
+- [Full ISMS Document](isms-project.pdf)
+
 ## Project Objectives
 
 The goal of this project was to design and document a structured Information Security Management System for a simulated multinational organization while applying industry security frameworks and risk management principles to real-world business scenarios.
