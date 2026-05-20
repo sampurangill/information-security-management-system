@@ -8,7 +8,7 @@ This project focused on cybersecurity governance, risk management, incident resp
 ## Repository Contents
 
 ### Policies
-- [Phishing Awareness Policy](information-security-management-system/policies/phishing-awareness-policy.pdf)
+- [Phishing Awareness Policy](policies/phishing-awareness-policy.pdf)
 - [Patch Management Policy](policies/patch-management-policy.pdf)
 
 ### Incident Response
